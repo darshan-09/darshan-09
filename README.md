@@ -10,7 +10,8 @@
 - Tools: Git, Docker
 
 ## Connect With Me
-[![LinkedIn](https://www.linkedin.com/mwlite/profile/in/darshan-choudhari-7957a6283/)
+LinkedIn - https://www.linkedin.com/mwlite/profile/in/darshan-choudhari-7957a6283/
+Mail - darshanchoudhari142@gmail.com
 
 ---
 📫 Open to collaborations and learning opportunities!
