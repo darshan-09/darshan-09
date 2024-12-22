@@ -10,7 +10,7 @@
 - Tools: Git, Docker
 
 ## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/darshan-choudhari](https://www.linkedin.com/mwlite/profile/in/darshan-choudhari-7957a6283/))
+[![LinkedIn](https://www.linkedin.com/in/darshan-choudhari-7957a6283)
 
 ---
 📫 Open to collaborations and learning opportunities!
