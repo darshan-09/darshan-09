@@ -11,7 +11,7 @@
 
 ## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/darshan-choudhari-7957a6283)
-Mail - darshanchoudhari142@gmail.com
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail)](darshanchoudhari142@gmail.com)
 
 ---
 📫 Open to collaborations and learning opportunities!
