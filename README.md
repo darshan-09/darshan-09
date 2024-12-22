@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi 👋 I'm Darshan Choudhari
 
-<!--
-**darshan-09/darshan-09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Science & Engineering student at Cambridge Institute of Technology, Bengaluru  
+💻 Passionate about Web Development, AI/ML, and Cloud Computing
 
-Here are some ideas to get you started:
+## Tech Stack
+- Languages: Python, JavaScript, Java
+- Frontend: React, HTML, CSS
+- Backend: Node.js
+- Tools: Git, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)]([https://www.linkedin.com/in/darshan-choudhari](https://www.linkedin.com/mwlite/profile/in/darshan-choudhari-7957a6283/))
+
+---
+📫 Open to collaborations and learning opportunities!
